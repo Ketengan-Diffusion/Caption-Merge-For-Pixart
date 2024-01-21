@@ -23,9 +23,9 @@ For example:
 ``A young girl with white hair, purple eyes, and fair complexion. She wearing green dress gold necklace. smiling has flower in her hair. camera angle close-up, capturing facial expression outfit details. scene appears to be set dark environment, the being main focus of image``
 
 So the merged file looks like:
-``` [1] 1girl, absurdres, antenna hair, bangs, bare shoulders, blush, breasts, collarbone, commentary request, doconim, eyebrows visible through hair, flower, grey background, hair between eyes, hair flower, hair ornament, highres, kokkoro (princess connect!), looking at viewer, medium breasts, pointy ears, princess connect!, princess connect! re dive, short hair, silver hair, simple background, smile, solo, violet eyes, white flower```
+``` [Line 1] 1girl, absurdres, antenna hair, bangs, bare shoulders, blush, breasts, collarbone, commentary request, doconim, eyebrows visible through hair, flower, grey background, hair between eyes, hair flower, hair ornament, highres, kokkoro (princess connect!), looking at viewer, medium breasts, pointy ears, princess connect!, princess connect! re dive, short hair, silver hair, simple background, smile, solo, violet eyes, white flower```
 
-``` [2] A young girl with white hair, purple eyes, and fair complexion. She wearing green dress gold necklace. smiling has flower in her hair. camera angle close-up, capturing facial expression outfit details. scene appears to be set dark environment, the being main focus of image```
+``` [Line 2] A young girl with white hair, purple eyes, and fair complexion. She wearing green dress gold necklace. smiling has flower in her hair. camera angle close-up, capturing facial expression outfit details. scene appears to be set dark environment, the being main focus of image```
 
 # Requirements:
 Any version of python
